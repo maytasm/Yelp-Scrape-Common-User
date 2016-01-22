@@ -1,4 +1,4 @@
-# YelpCommonUser
+# Yelp Scrape Common User
 Yelp trusted reviewers with common restaurant preference
 
 Introduction:
