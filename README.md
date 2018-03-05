@@ -9,7 +9,7 @@ Python script to find trusted reviewers based on common restaurant preference.
 Crawled Yelp webpages and parsed the scraped HTML source to extract reviewers and reviews rating.
 
 Usage:
-python yelpScrape.py resturant1 resturant2 ....
+python yelpScrapeFindSimilarUser resturant1 resturant2 ....
 
 Example:
-python yelpScrape.py saru-sushi-bar-san-francisco sushi-ota-san-diego
+python yelpScrapeFindSimilarUser saru-sushi-bar-san-francisco sushi-ota-san-diego
